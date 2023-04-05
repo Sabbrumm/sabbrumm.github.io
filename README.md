@@ -1,4 +1,4 @@
-# Привет! Это Ваня Саббрумм!
+
 ![Здесь должна была быть моя фотка но она не прогрузилась](https://sun9-42.userapi.com/impg/QRFju3cbZOMEJom23yR9sslJ24Tquv67Qq-GbA/xuFnSizcZHQ.jpg?size=440x440&quality=95&sign=72aa0dd506fb6b912a0087ea04012287&type=album "это я!!")
 
 Я учусь в ЛЭТИ на ИСИТ в группе 2375, и периодически делаю лабораторки по проге.
