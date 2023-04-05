@@ -7,8 +7,5 @@ github_username: sabbrumm
 theme: minima
 header_pages:
   - README.md
-plugins:
-  - jekyll-feed
-  - jekyll-mentions
 disqus:
-  shortname: placeholder # this is a placeholder to enable comments
+  shortname: sabbrumm
