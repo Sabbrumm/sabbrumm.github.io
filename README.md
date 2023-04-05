@@ -1,5 +1,5 @@
 
-![Здесь должна была быть моя фотка но она не прогрузилась](https://sun9-42.userapi.com/impg/QRFju3cbZOMEJom23yR9sslJ24Tquv67Qq-GbA/xuFnSizcZHQ.jpg?size=440x440&quality=95&sign=72aa0dd506fb6b912a0087ea04012287&type=album "это я!!")
+![Здесь должна была быть моя фотка но она не прогрузилась](https://sun9-75.userapi.com/impg/9vUH_E5ilmz3R2j7Z-bn1A4Aw60bftaW0KAjWA/CNIgfOsSe7Q.jpg?size=1440x1920&quality=95&sign=426d960620125363d4abaf0ae11f7b36&type=album "это я!!")
 
 # Привет! Я - Иван Саббрумм!
 
