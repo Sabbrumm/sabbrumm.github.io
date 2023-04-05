@@ -30,10 +30,13 @@ ____
 
 # Список проектов:
 
-1. [ВКонтакте](vk.com/sabbrumm)
-2. [ВКонтакте](vk.com/sabbrumm)
-3. [ВКонтакте](vk.com/sabbrumm)
-4. [ВКонтакте](vk.com/sabbrumm)
-5. [ВКонтакте](vk.com/sabbrumm)
-6. [ВКонтакте](vk.com/sabbrumm)
-
+1. [C-NOVA Calculator - Калькулятор](https://github.com/Sabbrumm/cnova_calc)
+2. [C-NOVA Spiral - Демонстрация алгоритма спиральки](https://github.com/Sabbrumm/cnova_spiral)
+3. [C-NOVA Strings - Демонстрация работы со строками](https://github.com/Sabbrumm/cnova_strings)
+4. [C-NOVA XO - Крестики-Нолики со звуком](https://github.com/Sabbrumm/cnova_xo)
+5. [C-NOVA Matrix - Калькулятор алгебраических матриц](https://github.com/Sabbrumm/cnova_matrix)
+6. [C-NOVA SnakeMP - Змейка для двух игроков со звуком](https://github.com/Sabbrumm/cnova_snakemp)
+7. [C-NOVA Lists - Демонстрация работы со списками](https://github.com/Sabbrumm/cnova_lists)
+8. [C-NOVA Compare - Утилита для сравнения двух текстов по LCS](https://github.com/Sabbrumm/cnova_compare)
+9. [C-NOVA DB - Иерархическая база данных с интерфейсом](https://github.com/Sabbrumm/cnova_db)
+10. [C-NOVA BMParser - Парсер .bmp файлов](https://github.com/Sabbrumm/cnova_bmparser)
