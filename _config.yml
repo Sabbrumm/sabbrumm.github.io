@@ -1,11 +1,18 @@
 title: "Sabbrumm"
 description: >- # this means to ignore newlines until "baseurl:"
-  Note: C-NOVA is not a trademark but i will be very sad if you use it without asking me
+  C-NOVA не торговая марка, но используя ее без моего ведома вы меня разочаровываете...
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: sabbrumm
 theme: minima
 header_pages:
   - README.md
-disqus:
-  shortname: sabbrumm
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+minima: 
+  social_links:
+     - { platform: github,         user_url: "https://github.com/sabbrumm" }
+     - { platform: telegram,       user_url: "https://t.me/sabbrumm" }
