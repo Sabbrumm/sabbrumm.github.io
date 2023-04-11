@@ -40,3 +40,4 @@ ____
 8. [C-NOVA Compare - Утилита для сравнения двух текстов по LCS](https://github.com/Sabbrumm/cnova_compare)
 9. [C-NOVA DB - Иерархическая база данных с интерфейсом](https://github.com/Sabbrumm/cnova_db)
 10. [C-NOVA BMParser - Парсер .bmp файлов](https://github.com/Sabbrumm/cnova_bmparser)
+11. [C-NOVA Hello - Демонстрация работы с QT](https://github.com/Sabbrumm/cnova_hello)
