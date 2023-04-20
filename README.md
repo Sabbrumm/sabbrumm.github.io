@@ -41,3 +41,4 @@ ____
 9. [C-NOVA DB - Иерархическая база данных с интерфейсом](https://github.com/Sabbrumm/cnova_db)
 10. [C-NOVA BMParser - Парсер .bmp файлов](https://github.com/Sabbrumm/cnova_bmparser)
 11. [C-NOVA Hello - Демонстрация работы с QT](https://github.com/Sabbrumm/cnova_hello)
+12. [C-NOVA Tabs - Вкладки](https://github.com/Sabbrumm/cnova_tabs)
