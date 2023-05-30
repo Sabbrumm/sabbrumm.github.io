@@ -42,3 +42,4 @@ ____
 10. [C-NOVA BMParser - Парсер .bmp файлов](https://github.com/Sabbrumm/cnova_bmparser)
 11. [C-NOVA Hello - Демонстрация работы с QT](https://github.com/Sabbrumm/cnova_hello)
 12. [C-NOVA Tabs - Вкладки](https://github.com/Sabbrumm/cnova_tabs)
+13. [C-NOVA App - клиент-серверное приложение](https://github.com/Sabbrumm/cnova_app)
